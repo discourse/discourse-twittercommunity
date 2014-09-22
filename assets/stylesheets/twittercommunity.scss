@@ -1,0 +1,18 @@
+.poster-avatar-extra {
+  display: none;
+  margin-top: 8px;
+}
+
+/***
+
+Example customization for users with primary group "Devs":
+
+.group-Devs .poster-avatar-extra {
+  display: block;
+  background-image: url(http://myimages.example.com/3a070665313ba0b7.png);
+  width: 45px;
+  height: 45px;
+  border-radius: 3px;
+}
+
+***/
