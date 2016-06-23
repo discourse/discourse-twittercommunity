@@ -1,5 +1,5 @@
 # name: discourse-ddgstaff
-# about: Customizations for ddgstaff.com
+# about: Customizations for DuckDuckGo staff avatars in Discourse
 # version: 0.1
 # authors: Daniel Davis, original code by Neil Lalonde
 
