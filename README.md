@@ -1,4 +1,5 @@
-discourse-twittercommunity
+discourse-ddgstaff
 ==========================
 
-A plugin to add customizations to twittercommunity.com.
+A plugin to add customizations to DuckDuckGo staff avatars in Discourse.
+Based on https://github.com/discourse/discourse-twittercommunity
